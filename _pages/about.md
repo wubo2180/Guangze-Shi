@@ -8,4 +8,17 @@ redirect_from:
 ---
 
 
-I completed my undergraduate studies at **Zhongnan University of Economics and Law** and earned my Ph.D. from **Renmin University of China**. Currently, I am conducting research at the **Xiangjiang Laboratory**. My primary research focus is on **Graph Neural Network (GNN) algorithms and their applications**, aiming to explore efficient processing and analysis methods for graph-structured data. I am particularly interested in applying these methods to complex system modeling, social network analysis, recommendation systems, and other practical domains. Through continuous research and practice, I strive to advance the development of GNN technologies and provide smarter, more efficient solutions to real-world problems.
+## Academic Background
+- **Ph.D.** in Electrical Engineering, Central South University, China.  
+  *(Thesis: "Your Thesis Title")*  
+- **Research Interests:** Power grid system modeling and applications, [add other relevant areas if applicable].
+
+## Current Position
+- **Lecturer**, Hunan University of Technology and Business, China.  
+  - Teaching and research in [specific courses or areas, e.g., power systems, renewable energy integration, etc.].  
+  - Actively involved in [specific projects, collaborations, or initiatives].
+
+## Research Focus
+- **Power Grid System Modeling:** Developing advanced models for power grid stability, optimization, and control.  
+- **Applications:** Implementing models in real-world scenarios, such as smart grids, renewable energy integration, and energy management systems.  
+- **Collaborations:** Working with industry and academic partners to address challenges in modern power systems.
