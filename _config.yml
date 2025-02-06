@@ -23,13 +23,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Guangze Shi"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Dr. Shiguangze is a lecturer at Hunan University of Technology and Business, specializing in power grid system modeling and its applications, with a Ph.D. from Central South University."
+  location         : "Changsha, Hunan, China"
+  employer         : "Hunan University of Technology and Business"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "3006@hutb.edu.cn" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
