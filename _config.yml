@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Guangze Shi (施光泽)"
+title                    : "Guangze Shi"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Guangze Shi"
+  name             : "Guangze Shi  (施光泽)"
   pronouns         : # example: "she/her"  
   bio              : "Dr. Shiguangze is a lecturer at Hunan University of Technology and Business, specializing in power grid system modeling and its applications, with a Ph.D. from Central South University."
   location         : "Changsha, Hunan, China"
